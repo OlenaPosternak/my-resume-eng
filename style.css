@@ -1,0 +1,138 @@
+body {
+  background-color: #e5e5e5;
+  font-family: "Montserrat", sans-serif;
+  font-style: Regular #595959;
+  font-size: 14px;
+  line-height: 24px;
+}
+.main-container {
+  display: flex;
+  flex-direction: row-reverse;
+  width: 1200px;
+  margin: 40px auto;
+}
+.main-section {
+  background-color: #ffffff;
+  padding: 100px 90px 100px 90px;
+  width: ;
+}
+h1,
+h2,
+h4,
+h5 {
+  color: black;
+}
+h3 {
+  font-size: 22px;
+  line-height: 26.82px;
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+a {
+  text-decoration: none;
+  color: #595959;
+}
+h1 {
+  font-size: 45px;
+  font-weight: 700;
+  line-height: 54.86px;
+  margin-bottom: 25px;
+}
+h2 {
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 17px;
+  margin-bottom: 0px;
+}
+.about-me-profession {
+  font-size: 14px;
+  font-weight: 700;
+  color: black;
+}
+.about-me {
+  width: 400px;
+  margin-bottom: 40px;
+}
+.my-projects {
+}
+.projects-list {
+  padding: 0 0 0 14px;
+  margin-bottom: 50px;
+}
+.projects-list-item {
+  color: black;
+  font-weight: 700;
+}
+.projects-list-link {
+  font-weight: 400;
+  margin-left: 10px;
+}
+.projects-list-brackets {
+  font-weight: 700;
+}
+
+/*work experience*/
+.work-experience {
+}
+.profession-name {
+  font-size: 16px;
+  font-weight: 700;
+}
+.company-type {
+  color: #fb6d3a;
+}
+
+.work-experience-dates {
+  color: #a8a8a8;
+  font-size: 12px;
+  padding: 0 0 0 0;
+}
+.work-experience-country {
+  color: black;
+}
+.work-experience-list {
+  width: 525px;
+  padding: 0 0 0 11px;
+}
+.university {
+  color: #fb6d3a;
+  font-size: 16px;
+}
+/*side bar*/
+.aside-section {
+  background-color: #1e2939;
+  width: 370px;
+}
+.aside-section img {
+  margin-top: 40px;
+}
+
+.contacts,
+.tech-skills,
+.soft-skills {
+  margin: 51px auto 47px 40px;
+  color: #ffffff;
+}
+.aside-section-title {
+  margin-bottom: 10px;
+}
+.contact-section-name {
+  margin-right: 10px;
+  font-size: 14px;
+  font-weight: 700;
+}
+.contact-section-link {
+  text-decoration: underline;
+}
+.li-side-bar {
+  color: #fb6d3a;
+  margin-right: 40px;
+}
+
+.li-side-bar-name {
+  color: #fff;
+}
+.skils-list {
+  padding: 0 0 0 0px;
+  margin-left: 16px;
+}
